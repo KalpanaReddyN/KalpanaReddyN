@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Kalpana Neelapu</h1>
-<h3 align="center">A passionate DevOps Engineer from London, UK</h3>
+<h3 align="center">A passionate AWS DevOps Engineer</h3>
 
 - 💬 Ask me about **Ansible, Shell-Scripting, Terraform, Docker, Kubernetes**
 
