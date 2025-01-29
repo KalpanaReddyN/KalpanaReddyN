@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Kalpana Neelapu</h1>
-<h3 align="center">A passionate AWS DevOps Engineer</h3>
+<h3 align="center">AWS DevOps Engineer</h3>
 
-- 💬 Ask me about **Ansible, Shell-Scripting, Terraform, Docker, Kubernetes**
+- 💬 Ask me about **Linux, Ansible, Shell-Scripting, Terraform, Docker, Kubernetes, Jenkins, CI/CD**
 
-- 📫 How to reach me **kalpanareddyneelapu@gmail.com**
+- 📫 How to reach me **kalpanareddyneelapu@gmail.com || krneelapu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
