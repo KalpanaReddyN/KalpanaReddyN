@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Kalpana Neelapu</h1>
-<h3 align="center">AWS DevOps Engineer</h3>
+<h3 align="center">DevOps and Cloud Engineer</h3>
 
 - 💬 Ask me about **Linux, Ansible, Shell-Scripting, Terraform, Docker, Kubernetes, Jenkins, CI/CD**
 
